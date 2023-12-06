@@ -6,4 +6,3 @@ if(!$conn){
 
 die("Could not connect to db" . mysqli_connect_error());
 }
-?>
